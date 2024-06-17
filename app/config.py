@@ -1,0 +1,2 @@
+TOKEN = '6801845430:AAH7OxdJSR2-hpTR9YFFuM4zJB3CzTGH1HA'
+SQLALCHEMY_URL = "sqlite+aiosqlite:///db.sqlite3"
